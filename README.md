@@ -1,7 +1,7 @@
 # olist-dashboard
 ![](https://github.com/ppkgtmm/olist-dashboard/assets/57994731/1269a314-77bf-4179-80d4-c449da69041c)
 
-Overview of e-commerce revenue, customer satisfaction and delivery service in form of dashboard. By consolidating improvement areas for business into single view, insights can be derived from data faster and more conveniently
+Overview of e-commerce revenue, customer satisfaction and delivery service in form of dashboard. Consolidating improvement areas for business into single view, enabled insights to be derived from data faster and more conveniently
 
 ### References
 

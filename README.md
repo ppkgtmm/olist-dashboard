@@ -3,6 +3,5 @@ summary of e-commerce revenue, customer satisfaction and delivery service as tab
 
 ## references
 
-- [brazilian ecommerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-- [tableau calculated fields level of detail](https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod.htm)
-- [tableau essential training course](https://www.linkedin.com/learning/tableau-essential-training-22386688)
+- [brazilian e-commerce public dataset by olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- [tableau calculated fields level of detail expression](https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod.htm)
